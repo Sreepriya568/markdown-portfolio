@@ -1,1 +1,1 @@
-<img src="![Image of Yaktocat](https://octodex.github.com/images" alt="image not loading">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).
